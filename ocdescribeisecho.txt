@@ -1,0 +1,15 @@
+Name:			echo
+Namespace:		vda767bed7567ka-docker-build
+Created:		7 minutes ago
+Labels:			app=echo
+Annotations:		openshift.io/generated-by=OpenShiftNewApp
+Image Repository:	default-route-openshift-image-registry.apps.ocp-ap4.prod.nextcle.com/vda767bed7567ka-docker-build/echo
+Image Lookup:		local=false
+Unique Images:		1
+Tags:			1
+
+latest
+  no spec tag
+
+  * image-registry.openshift-image-registry.svc:5000/vda767bed7567ka-docker-build/echo@sha256:9ca03b0a4890cf726d6b8c20068675a91eaab9cc90c4ae2b432c111672c835ab
+      6 minutes ago

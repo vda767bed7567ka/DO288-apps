@@ -1,0 +1,3 @@
+NAME   IMAGE REPOSITORY                                                                                         TAGS     UPDATED
+echo   default-route-openshift-image-registry.apps.ocp-ap4.prod.nextcle.com/vda767bed7567ka-docker-build/echo   latest   5 minutes ago
+ubi    default-route-openshift-image-registry.apps.ocp-ap4.prod.nextcle.com/vda767bed7567ka-docker-build/ubi    8.0      6 minutes ago
